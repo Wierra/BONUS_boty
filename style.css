@@ -2,8 +2,14 @@
 html { box-sizing: border-box; }
 *, ::after, ::before { box-sizing: inherit; }
 
+@font-face {
+    font-family: 'Rubik';
+    src: url("fonts/Rubik/Rubik-VariableFont_wght.ttf");
+}
+
 body {
     text-rendering: optimizeLegibility;
+    font-family: 'Rubik', sans-serif;
 }
 
 /*

@@ -1,5 +1,4 @@
 # Bonusový úkol: Boty
-
 Bonusový úkol pro kurz Staň se kóderkou od Czechitas. Tento úkol se neodevzdává a nehodnotí. Vypracuj si ho pro sebe jako trénink kódování CSS. Toto je **těžší** varianta úkolu, více se dozvíš v sekci obtížnosti úkolu.
 
 - [Cíl úkolu](#Cíl-úkolu)
@@ -14,7 +13,6 @@ Za úkol máš nakódovat design podle grafického návrhu - mini stránku produ
 
 
 ## Cíl úkolu
-
 Cílem projektu je procvičit si použití různých technik:
 - **Flexbox**
   - umístit zelenou a bílou polovinu gafického návrhu vedle sebe (obě jsou stejně velké)
@@ -35,7 +33,6 @@ Ve složce projektu je obrázek *zadani-ukolu.jpg*, kde jsou uvedeny požadovan�
 ![zadání úkolu](zadani-ukolu.jpg)
 
 ## Obtížnosti
-
 Zadání tohoto projektu je vytvořeno ve dvou úrovních obtížnosti. Tento repozitář obsahuje výchozí **standardní úroveň obtížnosti.** Pokud máš méně času nebo s úkolem bojuješ, můžeš zkusit lehčí variantu úkolu.
 
 ### Standardní obtížnost
@@ -51,11 +48,8 @@ Zadání tohoto projektu je vytvořeno ve dvou úrovních obtížnosti. Tento re
 
 Je úplně v pořádku, pokud si nakonec zvolíš jednodušší variantu (např. kvůli nedostatku času), ale doporučuji, abys nejprve zkusila výchozí obtížnost, kde si musíš sama vytvořit i HTML strukturu. Není to zase o tolik těžší a v reálném životě ti také nikdo HTML připravovat nebude. Jako kóderka dostaneš grafický návrh a ten budeš muset převést do HTML a CSS. Budeš-li si u bonusových úkolů volit jednodušší obtížnosti, nakonec zjistíš, že sice umíš CSS, ale dělá ti problém vymyslet a napsat si vlastní HTML.
 
-
 ## Jak si stáhnout podklady
-
 1. Udělej si **fork** tohoto repozitáře - tím se ti úkol zkopíruje do tvého GitHub profilu.
 2. Forknutou repozitář si naklonuj k sobě na disk.
 
 Pokud nevíš, co je to **fork repozitáře** a jak ho provést, podívej se na [krátké video](https://youtu.be/K7rE3jRCjD4).
-
